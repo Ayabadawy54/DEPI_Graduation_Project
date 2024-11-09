@@ -1,8 +1,9 @@
-
-
 <h1>Chatbot Project</h1>
 
 <p><strong>Project Overview:</strong> This chatbot, developed as part of my DEPI graduation project, aims to assist users in navigating the extensive Hugging Face documentation by providing a conversational interface. It ensures users find the resources they need quickly and accurately.</p>
+
+<!-- Add Demo Link -->
+<p><strong>🎥 Project Demo:</strong> <a href="https://github.com/Ayabadawy54/DEPI_Graduation_Project/blob/main/Demo.mp4" target="_blank">Watch the Demo Video</a></p>
 
 <h2>Problem Statement</h2>
 <p>Users often struggle to locate specific resources within Hugging Face documentation due to the sheer volume of available information. Our chatbot aims to streamline this process.</p>
